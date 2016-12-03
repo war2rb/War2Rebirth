@@ -1,5 +1,26 @@
-# Selfstarter
-Selfstarter makes it easy to roll your own crowdfunding site. To get started, fork this repository and change around ```config/settings.yml``` to suit your needs.
+
+"Choose wisely, for while the true command will bring you life, the false command will take it from you...."
+
+# Our plan will be to roll out a remastering of the classic RTS game, Warcraft II, with phase 1 comprising a replica of the original, with the single addition of an ability to view the game in widescreen mode.
+
+Phase 1 has a funding goal of $10,000. If was can gather $10,000, that will definitely be enough to find a good programmer, or a team of out-sourced programmers, to made this one upgrade to the original
+
+## Sign the Petition
+
+Petition Blizzard to sanction and bless War 2 Rebirth with the release of the original Warcraft II source code.
+
+What is known about the source code?
+
+
+
+
+
+
+
+
+
+## Powered by Selfstarter
+The Selfstarter rails engine makes it easy to roll your own crowdfunding site.
 
 [See it in action](http://selfstarter.us)
 

@@ -39,4 +39,4 @@ gem 'amazon_flex_pay'
 gem 'rails_config'
 
 # For Heroku
-gem 'rails_12factor'
+gem 'rails_12factor', group: :production
